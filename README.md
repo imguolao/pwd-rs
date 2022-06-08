@@ -1,4 +1,4 @@
-# PWD for rust
+# PWD for rust 🦀
 
 Display current working directory.
 
